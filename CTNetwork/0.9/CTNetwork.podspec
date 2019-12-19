@@ -21,5 +21,6 @@ Pod::Spec.new do |s|
   s.dependency 'GoogleUtilities'
   s.dependency 'nanopb'
   s.dependency 'Alert'
+  s.dependency 'YYKit'
   s.requires_arc = true
 end
