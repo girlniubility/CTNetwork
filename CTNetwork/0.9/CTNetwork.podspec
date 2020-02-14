@@ -22,5 +22,6 @@ Pod::Spec.new do |s|
   s.dependency 'nanopb'
   s.dependency 'Alert'
   s.dependency 'YYKit'
+  s.dependency 'SAMKeychain'
   s.requires_arc = true
 end
