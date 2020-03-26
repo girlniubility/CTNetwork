@@ -24,5 +24,5 @@ Pod::Spec.new do |s|
   s.dependency 'YYKit'
   s.dependency 'SAMKeychain'
   s.requires_arc = true
-  s.public_header_files = "CTNetwork/Header/*.h"
+  s.public_header_files = "CTNetwork/Headers/*.h"
 end
